@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "springdoc.swagger-ui.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.path'"
+  },
+  {
+    "name": "springdoc.swagger-ui.operationsSorter",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.operationsSorter'"
+  },
+  {
+    "name": "springdoc.swagger-ui.operationsSorter",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.operationsSorter'"
+  },
+  {
+    "name": "app.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.name'"
+  },
+  {
+    "name": "app.designation",
+    "type": "java.lang.String",
+    "description": "A description for 'app.designation'"
+  },
+  {
+    "name": "validation.error.nameNotBlank",
+    "type": "java.lang.String",
+    "description": "A description for 'validation.error.nameNotBlank'"
+  },
+  {
+    "name": "validation.error.designationNotBlank",
+    "type": "java.lang.String",
+    "description": "A description for 'validation.error.designationNotBlank'"
+  },
+  {
+    "name": "validation.error.nameNotBlank",
+    "type": "java.lang.String",
+    "description": "A description for 'validation.error.nameNotBlank'"
+  }
+]}
